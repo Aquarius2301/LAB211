@@ -1,9 +1,7 @@
-Các bài tập ở trên đã là những bài tập mình đã chấm rồi. 
-Tuy đã được accept nhưng không có nghĩa là các bạn có thể copy nguyên bài rồi đưa cho thầy cô.
-Vì nó phải phụ thuộc vào yêu cầu của thầy cô, 
-có thầy cô sẽ chỉ nhìn theo yêu cầu đề bài (đề bài viết sao chấm vậy) mà chấm điểm, nhưng có thầy cô chấm về phần giao diện nữa.
+Hãy đọc lưu ý này trước khi dùng:
 
-Nên mình khuyên các bạn nên dùng những file ở trên đây là bài tham khảo trong trường hợp các bạn làm 
-mãi không ra. Chứ không phải chưa nhìn cái đề là copy nguyên bài rồi. 
+1. Những đoạn code trên đây là bao gồm những đoạn code mà mình đã được accept và chưa chấm (làm thêm cho vui)
 
-Nên mọi người hãy sử dụng nó đúng mục đích nhá!!!!
+2. Những đoạn code này mang tính chất tham khảo vì cho dù có copy hết thì chưa chắc đã được accept 
+
+3. Đừng nên copy toàn bộ code và nộp vì chẳng khác gì bạn xem môn này như làm cho có hay sao chép công sức của người khác
