@@ -16,7 +16,7 @@ Chứ đừng mới đọc cái đề xong mà không suy nghĩ cuối cùng cop
 
 Điểm để qua môn: 20 điểm Short và 5 điểm Long (Kì SP23, có thể sẽ thay đổi tùy vào thầy cô)
 
-Bài có chữ S sẽ suy ra là 1 điểm hoặc 2 điểm Short tùy vào độ khó (2 điểm sẽ được đánh dấu *) 
+Bài có chữ S sẽ suy ra là 1 điểm hoặc 2 điểm Short tùy vào độ khó (2 điểm sẽ được đánh dấu !) 
 
 Bài có chữ V sẽ đổi ra được 2 điểm Short hoặc 1 điểm Long 
 
