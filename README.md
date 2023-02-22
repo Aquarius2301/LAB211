@@ -12,9 +12,9 @@ Chứ đừng mới đọc cái đề xong mà không suy nghĩ cuối cùng cop
 
 5. Tham khảo code thì phải hiểu nó đang viết gì (có comment), nếu có những method lạ thì lên mạng tìm hiểu thêm
 
------------------------------------------------------------------------
 
-Điểm để qua môn: 20 điểm Short và 5 điểm Long
+
+Điểm để qua môn: 20 điểm Short và 5 điểm Long (Kì SP23, có thể sẽ thay đổi tùy vào thầy cô)
 
 Bài có chữ S sẽ suy ra là 1 điểm hoặc 2 điểm Short tùy vào độ khó (2 điểm sẽ được đánh dấu *) 
 
@@ -22,7 +22,5 @@ Bài có chữ V sẽ đổi ra được 2 điểm Short hoặc 1 điểm Long
 
 Bài có chữ L sẽ đổi ra được 5 điểm Long (1 bài L = 5 bài V)
 
-(Kì SP23, có thể sẽ thay đổi tùy vào thầy cô)
------------------------------------------------------------------------
 
 Cảm ơn các bạn đã xem. Chúc các bạn pass môn, không học lại!!!
