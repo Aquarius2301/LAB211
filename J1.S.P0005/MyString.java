@@ -28,12 +28,12 @@ public class MyString {
 
         for (int i = 0; i < words.length; i++) {
             String word = words[i].toLowerCase().trim();
-          //  if (!word.equals("")) {
+            if (!word.equals("")) {
                 if (!count.containsKey(word)) // If count doesn't have the word, put it in
                     count.put(word, 1);
                 else
                     count.replace(word, count.get(word) + 1); // else add the value to 1
-           // }
+            }
         }
         return show();
     }
